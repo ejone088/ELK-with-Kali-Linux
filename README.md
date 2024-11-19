@@ -1,5 +1,5 @@
 # Setting Up An Elastic SIEM w/Kali Linux
-I will be using Elastic to ingest and visualize data from security events in Kali Linux and create alerts/rules based on the data
+I will be using Elastic to ingest and visualize data from security events in Kali Linux and create alerts/rules based on the data.
 
 # Adding An Agent For Log Collection
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/3764242c-b8ce-47d7-ba9c-f28346437edc">
